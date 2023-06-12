@@ -1,0 +1,82 @@
+#back 
+{
+    background-image: url(../img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 500px;
+}
+
+
+#gallery
+{
+    border: 1px solid black;
+    /* height: 600px; */
+}
+
+#borderkeiliay
+{
+    border: 1px solid black;
+    height: 350px;
+}
+#moreimagesshoes
+{
+    display: none;
+}
+
+#counter
+{
+    background-image: url(../img/counter.avif);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 300px;
+    background-attachment: fixed;
+    opacity: 60%;
+}
+#modalimg
+{
+    margin: auto;
+}
+
+#imgborder
+{
+    border: 1px solid black;
+}
+
+#icons1
+{
+    font-size: 40px;
+    background-color: yellow;
+    border-radius: 60%;
+    padding: 30px;
+}
+
+#service
+{
+    text-align: center;
+}
+#span
+{
+    color: red;
+    padding-left: 10px;
+    font-family: monospace;
+
+}
+
+
+#footer
+{
+    height: 300px;
+}
+
+#footericon
+{
+    color: white;
+    font-size: 30px;
+    padding-left: 20px;
+}
+
+#footerachor
+{
+    text-decoration: none;
+    color: white;
+}
